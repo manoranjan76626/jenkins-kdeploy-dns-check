@@ -1,0 +1,1 @@
+# jenkins-kdeploy-dns-check
